@@ -4,3 +4,16 @@
     4  git commit -m "Initial commit with mostly completed README"
     5  git push
     6  history 25 > terminal_history.txt
+    1  cd Desktop/Module_6/Challenge_6/
+    2  git status
+    3  git add . 
+    4  git commit -m "Initial commit with mostly completed README"
+    5  git push
+    6  history 25 > terminal_history.txt
+    7  git status
+    8  git status
+    9  git add . 
+   10  git commit -m "Most of challenge complete"
+   11  git push
+   12  git status
+   13  history 25 >> terminal_history.txt
