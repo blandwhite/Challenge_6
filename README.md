@@ -19,7 +19,7 @@ Your job is to use your data visualization skills, including aggregation, intera
 
 For this Challenge assignment, we will create and submit the following:
 
-    A Jupyter notebook that contains an analysis of the housing rental market data for San Francisco. The analysis will be complete with professionally styled and formatted interactive visualizations.
+  - A Jupyter notebook that contains an analysis of the housing rental market data for San Francisco. The analysis will be complete with professionally styled and formatted interactive visualizations.
     
 ---
 
